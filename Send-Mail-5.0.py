@@ -1,6 +1,6 @@
-print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR LOOCK UNDERWOOD') 
 #!/usr/bin/env python 
 # -*- coding: utf-8 -*-
+print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR LOOCK UNDERWOOD') 
 import smtplib
 import time
 print('''
@@ -99,6 +99,14 @@ KKK     KKK   III   SSSSSSS    SSSSSSS''')
 
 time.sleep(6)
 #sleep 6 secs
+
+
+
+
+    
+
+
+  
 
 
 
