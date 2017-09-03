@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR LOOCK UNDERWOOD') 
 import smtplib
+import getpass
 import time
 print('''
 
@@ -49,7 +50,7 @@ de = input('\n [!]  - Digite o seu Email: ')
 
 print('\n #============================================================================================#')
 #=================================================================================#
-sen = input('\n [!]  - Digite a sua Senha: ')
+sen = getpass.getpass('\n [!]  - Digite a sua Senha: ')
 
 print('\n #============================================================================================#')
 #=================================================================================#
@@ -99,14 +100,6 @@ KKK     KKK   III   SSSSSSS    SSSSSSS''')
 
 time.sleep(6)
 #sleep 6 secs
-
-
-
-
-    
-
-
-  
 
 
 
