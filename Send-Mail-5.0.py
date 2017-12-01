@@ -1,6 +1,6 @@
 #!/usr/bin/env python 
 # -*- coding: utf-8 -*-
-print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR LOOCK UNDERWOOD') 
+print('\n © 2017 Copyright TODOS OS DIREITOS RESERVADOS POR GABRIEL SANTOS') 
 import smtplib
 import getpass
 import time
@@ -15,7 +15,7 @@ print('''
 
 
  :================================================================:
- :  -  SCRIPT DE ESTUDO BASICO EM PYTHON // BY: Loock Underwood   :
+ :  -  SCRIPT DE ESTUDO BASICO EM PYTHON // BY: GABRIEL SANTOS    :
  :================================================================:
  :  - TAMO JUNTO ° DERICK SANTOS e ° FELIPE MANDIOCA              :
  :================================================================:                                                              
