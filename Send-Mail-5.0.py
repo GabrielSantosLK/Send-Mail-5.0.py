@@ -15,7 +15,7 @@ print('''
 
 
  :================================================================:
- :  -  SCRIPT DE ESTUDO BASICO EM PYTHON // BY: Loock Underwood   :
+ :  -  SCRIPT DE ESTUDO BASICO EM PYTHON // BY: GABRIEL SANTOS    :
  :================================================================:
  :  - TAMO JUNTO ° DERICK SANTOS e ° FELIPE MANDIOCA              :
  :================================================================:                                                              
